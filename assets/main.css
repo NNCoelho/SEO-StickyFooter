@@ -18,6 +18,7 @@ body{
 
 .conteudo{
     flex: 1 0 auto;
+    text-align: center;
 }
 
 .rodape{
